@@ -2,7 +2,7 @@
   <section class="src-components-index-formulario">
     <div class="jumbotron">
       <vue-form :state="formState" @submit.prevent="enviar()">
-        <h1>TP4-Formulario</h1>
+        <h1>TP7-Formulario</h1>
         <validate tag="div">
           <label for="nombre">Nombre</label>
           <input 
